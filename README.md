@@ -1,6 +1,6 @@
 # rgcookbook
 
-![R Graphics Cookbook](cover.png)
+![R Graphics Cookbook Cover](cover.jpg)
 
 Source code for the R Graphics Cookbook, 2nd edition.
 
