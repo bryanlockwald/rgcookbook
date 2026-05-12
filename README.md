@@ -1,6 +1,6 @@
 # rgcookbook
 
-
+![R Graphics Cookbook](cover.png)
 
 Source code for the R Graphics Cookbook, 2nd edition.
 
@@ -9,7 +9,7 @@ Source code for the R Graphics Cookbook, 2nd edition.
 
 ## About this fork
 
-This is a fork of [wch/rgcookbook](https://github.com/wch/rgcookbook) that converts the source from R Markdown / bookdown to Quarto. Specifically:
+This is a fork of [wch/rgcookbook](https://github.com/wch/rgcookbook) that converts the source from R Markdown / bookdown to Quarto. 
 
 - All `.Rmd` files have been renamed to `.qmd`
 - Cross-references use Quarto syntax (`@fig-*`, `@tbl-*`, `@sec-*`) instead of bookdown's `\@ref()` syntax
